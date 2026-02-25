@@ -1,8 +1,7 @@
 # ZSC_StudentSystem
 
 > 程序设计实践-学生信息管理系统
-> 
-> 作者：李嘉伟（组长） 陈梓佳 钟家明
+<img width="800"  alt="展示图" src="https://github.com/user-attachments/assets/3cf9c48d-5897-4baf-aaf7-409fe897d8b2" />
 
 ## 目录
 
